@@ -48,8 +48,13 @@ Esa base técnica me da una buena comprensión de infraestructura, redes y hardw
 ### 🌦 weather-frontend-m2
 Aplicación de clima desarrollada durante el bootcamp, consumiendo API de pronóstico y practicando maquetación responsive en JavaScript.
 
-### 🧙 CommandCenterLandfall / MTG-Todo-Freak
-Proyectos para gestionar torneos y datos de **Magic: The Gathering**, con foco en visualización clara de información para jugadores y tiendas.
+### 🧙 Dashboard de torneo Commander — CommandCenterLandfall
+Interfaz web para visualización de torneo Commander, con ranking general, posiciones finales, puntajes bonus, búsqueda de jugadores y acceso a listas de mazos publicadas en Moxfield.  
+🔗 Demo: https://mackelf.github.io/CommandCenterLandfall/
+
+### 📊 Dashboard de standings y estadísticas — MTG-Todo-Freak
+Dashboard para seguimiento de Season 3 de torneos de Magic: The Gathering, con filtro por fecha, ranking acumulado, rendimiento por jugador, arquetipos más jugados y resultados por torneo.  
+🔗 Demo: https://mackelf.github.io/MTG-Todo-Freak/
 
 ### 🧪 ProyectosVueBootCamp
 Colección de ejercicios y miniaplicaciones en Vue 3, explorando componentes, comunicación entre vistas y manejo de estado.
