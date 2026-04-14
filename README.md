@@ -54,3 +54,4 @@ Aplicación de clima con consumo de API y maquetación responsive en JavaScript.
 
 - Correo: mario.canto2008@gmail.com
 - GitHub: [@Mackelf](https://github.com/Mackelf)
+- Linkedin [Mario Canto](linkedin.com/in/mario-canto-534754240)
