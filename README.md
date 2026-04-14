@@ -58,7 +58,12 @@ Aplicación de clima con consumo de API y maquetación responsive en JavaScript.
 - Git, GitHub, VS Code, Google Apps Script
 
 ---
+## 📚 Formación
 
+- **Desarrollo Front-End** — Talento Digital Chile (Bootcamp, 2024–2025)
+- **Técnico Universitario en Electrónica** — Universidad Técnica Federico Santa María (egresado)
+
+---
 ## Contacto
 
 **Disponible para oportunidades y proyectos Front-End, y para integrarme a equipos de desarrollo.**
