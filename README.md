@@ -44,10 +44,9 @@ Aplicación de clima con consumo de API y maquetación responsive en JavaScript.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mackelf&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Mackelf&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mackelf&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mackelf&layout=compact&theme=tokyonight&hide_border=true&locale=es)
 </div>
 
 ## Stack actual
