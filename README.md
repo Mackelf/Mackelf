@@ -1,85 +1,56 @@
 # Hola, soy Mario 👋
 
 Desarrollador **Front-End Trainee** con base técnica sólida y más de 10 años de experiencia previa en soporte informático.  
-Actualmente enfocado en construir interfaces web con JavaScript y Vue.js, aplicando buenas prácticas de usabilidad y mantenimiento de código.
+Me enfoco en construir interfaces web y dashboards para Magic: The Gathering y aplicaciones orientadas a datos.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-Vengo de una trayectoria como Técnico Informático Onsite, donde me especialicé en resolución de problemas complejos, atención a usuarios y trabajo en equipo.  
-Esa experiencia me enseñó a comunicarme claro con personas con poco conocimiento técnico, documentar bien las soluciones y mantener la calma en contextos de alta demanda.
-
-Hoy estoy llevando esas mismas habilidades al desarrollo front-end: empatía con el usuario final, foco en la experiencia de uso y mentalidad de mejora continua.
+Vengo de una trayectoria como Técnico Informático Onsite (Quintec / Sonda, 2010–2024), trabajando en terreno y remoto para clientes como VTR, ENAP y SII.  
+Me acostumbré a resolver problemas bajo presión, comunicarme claro con personas con poco conocimiento técnico y documentar soluciones para que otros puedan mantenerlas.
 
 ---
 
-## 🧠 Experiencia previa en informática
+## Qué aporto a un equipo
 
-**Técnico Soporte Informático Onsite – Quintec S.A / Sonda (2010 - 2024)**  
-Residencia en clientes como VTR, ENAP y SII:
-
-- Resolución de incidencias en terreno, con alta tasa de solución en primera visita.
-- Diseño e implementación de sistemas de documentación para problemas recurrentes.
-- Capacitación y mentoría a nuevos técnicos, ayudando a subir el nivel del equipo.
-- Soporte a áreas administrativas y de recursos humanos, priorizando la continuidad operativa.
-- Soporte remoto durante el periodo de digitalización acelerada por COVID-19.
-
-Partnership con Claro:
-
-- Configuración de routers y switches, diagnóstico de pérdida de enlace en fibra óptica.
-- Integración de nuevos usuarios a la red mediante configuraciones cruzadas.
-
-Esa base técnica me da una buena comprensión de infraestructura, redes y hardware, lo que complementa mi trabajo como desarrollador front-end.
+- Comunicación clara, empatía y mentalidad de servicio.
+- Capacidad de análisis y resolución práctica de problemas.
+- Documentación y orden para facilitar mantención y trabajo en equipo.
+- Adaptabilidad a nuevas herramientas y contextos de alta demanda.
 
 ---
 
-## 🚀 Stack y herramientas
+## Proyectos destacados
 
-- Lenguajes: HTML5, CSS3/Sass, JavaScript (ES6+)
-- Frameworks: Vue.js 3, Bootstrap 5
-- Herramientas: Git, GitHub, VS Code, Google Apps Script
-- Front-end: Componentes reutilizables, consumo de APIs, responsive design
-
----
-
-## 🧩 Proyectos destacados
-
-### 🌦 weather-frontend-m2
-Aplicación de clima desarrollada durante el bootcamp, consumiendo API de pronóstico y practicando maquetación responsive en JavaScript.
-
-### 🧙 Dashboard de torneo Commander — CommandCenterLandfall
-Interfaz web para visualización de torneo Commander, con ranking general, posiciones finales, puntajes bonus, búsqueda de jugadores y acceso a listas de mazos publicadas en Moxfield.  
+### 🧙 Dashboard Commander — CommandCenterLandfall
+Interfaz web para torneos de Commander, con ranking general, puntajes bonus, posiciones finales y enlaces a mazos en Moxfield.  
 🔗 Demo: https://mackelf.github.io/CommandCenterLandfall/
 
-### 📊 Dashboard de standings y estadísticas — MTG-Todo-Freak
-Dashboard para seguimiento de Season 3 de torneos de Magic: The Gathering, con filtro por fecha, ranking acumulado, rendimiento por jugador, arquetipos más jugados y resultados por torneo.  
+### 📊 Dashboard Season 3 — MTG-Todo-Freak
+Dashboard para torneos de Magic: The Gathering, con standings, filtros por fecha, rendimiento por jugador, arquetipos y resultados por torneo.  
 🔗 Demo: https://mackelf.github.io/MTG-Todo-Freak/
 
-### 🧪 ProyectosVueBootCamp
-Colección de ejercicios y miniaplicaciones en Vue 3, explorando componentes, comunicación entre vistas y manejo de estado.
+### 🌦 weather-frontend-m2
+Aplicación de clima con consumo de API y maquetación responsive en JavaScript.
 
 ---
 
-## 🎯 Lo que estoy aprendiendo
+## Stack actual
 
-- Vue Router y Single Page Applications
-- Organización de proyectos front-end (estructuras de carpetas, componentes)
-- Mejores prácticas de accesibilidad y performance en el navegador
-
----
-
-## 📚 Formación
-
-- Técnico Universitario en Electrónica – Universidad Técnica Federico Santa María (egresado)
+- HTML5, CSS3/Sass, JavaScript (ES6+)
+- Vue.js 3, Bootstrap 5
+- Git, GitHub, VS Code, Google Apps Script
 
 ---
 
-## 📫 Contacto
+## Contacto
+
+**Disponible para oportunidades y proyectos Front-End, y para integrarme a equipos de desarrollo.**
 
 - Correo: mario.canto2008@gmail.com
 - GitHub: [@Mackelf](https://github.com/Mackelf)
-
----
-
-> Busco seguir creciendo como desarrollador front-end, combinando mi experiencia en soporte técnico con la construcción de aplicaciones web claras, útiles y mantenibles.
