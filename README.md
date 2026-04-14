@@ -37,6 +37,7 @@ Dashboard para torneos de Magic: The Gathering, con standings, filtros por fecha
 
 ### 🌦 weather-frontend-m2
 Aplicación de clima con consumo de API y maquetación responsive en JavaScript.
+![Weather app screenshot](assets/weatherAppPreview.png)
 
 ---
 
