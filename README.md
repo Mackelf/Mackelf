@@ -60,7 +60,7 @@ Aplicación de clima con consumo de API y maquetación responsive en JavaScript.
 ---
 ## 📚 Formación
 
-- **Desarrollo Front-End** — Talento Digital Chile (Bootcamp, 2024–2025)
+- **Desarrollo Front-End** — Talento Digital Chile (Bootcamp, 2025–2026)
 - **Técnico Universitario en Electrónica** — Universidad Técnica Federico Santa María (egresado)
 
 ---
